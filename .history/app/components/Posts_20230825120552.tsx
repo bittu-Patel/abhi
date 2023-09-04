@@ -9,7 +9,7 @@ export default function Posts() {
             <ul className="w-full">
                 {posts.map((post) => (
                  JSON.stringify(post)
-               ))}
+))}
             </ul>
         </section>
     )

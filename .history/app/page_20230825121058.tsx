@@ -8,6 +8,7 @@ export default function Home() {
           I&apos;m <span className="font-bold">Patel</span>.
         </span>
       </p>
+      <
     </main>
   )
 }

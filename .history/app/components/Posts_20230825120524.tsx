@@ -8,8 +8,8 @@ export default function Posts() {
             <h2 className="text-4xl font-bold dark:text-white/90">Blog</h2>
             <ul className="w-full">
                 {posts.map((post) => (
-                 JSON.stringify(post)
-               ))}
+
+))}
             </ul>
         </section>
     )
